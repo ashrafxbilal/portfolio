@@ -20,7 +20,7 @@ A modern, responsive portfolio website showcasing my work as a Java Developer an
 
 1. Clone the repository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/ashrafxbilal/portfolio.git
 cd portfolio
 ```
 

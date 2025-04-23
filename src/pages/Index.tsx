@@ -68,7 +68,7 @@ const Index = () => {
                 </div>
                 <div className="flex space-x-4 mt-8">
                   <a 
-                    href="mailto:beingbilalashraf@gmail.com" 
+                    href="mailto:bilalashraf@outlook.in" 
                     aria-label="Email"
                     className="p-2 border border-muted/30 rounded-sharp text-muted-foreground hover:text-foreground hover:border-foreground/50 transition-all duration-300 hover:shadow-lg hover:shadow-primary/20 backdrop-blur-sm animate-jiggle"
                   >
@@ -116,9 +116,12 @@ const Index = () => {
                         <h3 className="text-sm font-mono mb-2 text-muted-foreground">PROJECTS</h3>
                         <div className="space-y-2">
                           {[
+                            { name: 'DevOps-Powered Portfolio', year: '2025' },
                             { name: 'Azure AKS with Terraform', year: '2025' },
                             { name: 'Moodify Firefox Extension', year: '2025' },
-                            { name: 'Rowzah Platform', year: '2024' }
+                            { name: 'Rowzah Platform', year: '2024' },
+                            { name: 'Stock Market Prediction using LSTM', year: '2022' },
+                            { name: 'Pattern Recognition Search (IEEE Paper)', year: '2022' }
                           ].map((project) => (
                             <div key={project.name} className="flex items-center justify-between group">
                               <span className="text-xs group-hover:text-foreground transition-colors">{project.name}</span>

@@ -13,7 +13,7 @@ const Footer = () => {
           
           <div className="flex space-x-4">
             <a 
-              href="mailto:beingbilalashraf@gmail.com"
+              href="mailto:bilalashraf@outlook.in"
               aria-label="Email"
               className="p-2 text-muted-foreground hover:text-foreground transition"
             >
@@ -29,7 +29,7 @@ const Footer = () => {
               <Github size={20} />
             </a>
             <a 
-              href="https://linkedin.com/in/bilalashraf" 
+              href="https://linkedin.com/in/ashrafxbilal" 
               target="_blank" 
               rel="noopener noreferrer"
               aria-label="LinkedIn"

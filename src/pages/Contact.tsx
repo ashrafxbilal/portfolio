@@ -146,16 +146,16 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-mono font-bold mb-3">Email</h3>
                   <a 
-                    href="mailto:beingbilalashraf@gmail.com" 
+                    href="mailto:bilalashraf@outlook.in" 
                     className="text-muted-foreground hover:text-foreground transition inline-flex items-center"
                   >
-                    <Mail size={16} className="mr-2" /> beingbilalashraf@gmail.com
+                    <Mail size={16} className="mr-2" /> bilalashraf@outlook.in
                   </a>
                 </div>
                 
                 <div>
                   <h3 className="text-lg font-mono font-bold mb-3">Phone</h3>
-                  <p className="text-muted-foreground">+91-8287560300</p>
+                  <p className="text-muted-foreground">+91-82875-60300</p>
                 </div>
                 
                 <div>
@@ -171,7 +171,7 @@ const Contact = () => {
                       <Github size={20} />
                     </a>
                     <a 
-                      href="https://linkedin.com/in/bilalashraf" 
+                      href="https://linkedin.com/in/ashrafxbilal" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       aria-label="LinkedIn"
@@ -184,9 +184,9 @@ const Contact = () => {
 
                 <div className="p-6 border border-muted rounded-lg bg-background mt-8">
                   <p className="text-sm text-muted-foreground italic">
-                    "I'm currently exploring opportunities in DevOps and cloud infrastructure. 
+                    I'm currently exploring opportunities in DevOps and cloud infrastructure. 
                     If you're looking for someone with a unique blend of Java development and 
-                    entrepreneurial experience, I'd love to connect!"
+                    entrepreneurial experience, I'd love to connect!
                   </p>
                 </div>
               </div>
